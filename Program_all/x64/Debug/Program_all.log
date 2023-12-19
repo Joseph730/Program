@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\docs\институт\теория информации\Program\Program_all\main.cpp(384,55): warning C4305: инициализация: усечение из "double" в "float"
+D:\docs\институт\теория информации\Program\Program_all\main.cpp(385,55): warning C4305: инициализация: усечение из "double" в "float"
+D:\docs\институт\теория информации\Program\Program_all\main.cpp(388,56): warning C4305: инициализация: усечение из "double" в "float"
+D:\docs\институт\теория информации\Program\Program_all\main.cpp(389,56): warning C4305: инициализация: усечение из "double" в "float"
+D:\docs\институт\теория информации\Program\Program_all\main.cpp(390,55): warning C4305: инициализация: усечение из "double" в "float"
+D:\docs\институт\теория информации\Program\Program_all\main.cpp(391,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Program_all.vcxproj -> D:\docs\институт\теория информации\Program\x64\Debug\Program_all.exe
